@@ -1,0 +1,35 @@
+{
+    "cats": [
+        {
+            "id":1,
+            "nom":"biscottes",
+            "age":15,
+            "race":"loup",
+            "vivant":"true"
+        },
+
+        {
+            "id":2,
+            "nom":"ouioui",
+            "age":8,
+            "race":"kiwi",
+            "vivant":"true"
+        },
+
+        {
+            "id":3,
+            "nom":"popo",
+            "age":4,
+            "race":"banane",
+            "vivant":"true"
+        },
+
+        {
+            "id":4,
+            "nom":"louna",
+            "age":7,
+            "race":"jan",
+            "vivant":"false"
+        }
+    ]
+}
